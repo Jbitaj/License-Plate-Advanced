@@ -5,7 +5,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Image_Processing-red)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-## 🚀 About the Project
+##  About the Project
 This project detects vehicle license plates from images and applies perspective correction for better readability. It utilizes **YOLOv8** for plate detection and **OpenCV** for image processing.
 
 ---
