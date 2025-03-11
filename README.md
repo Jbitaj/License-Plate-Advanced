@@ -62,7 +62,7 @@ A window will appear:
 ## 🖼️ Sample Output
 | Original Image | Detected Plate | Corrected Plate |
 |---------------|---------------|-----------------|
-| ![Original](https://via.placeholder.com/150) | ![Detected](https://via.placeholder.com/150) | ![Corrected](https://via.placeholder.com/150) |
+| ![Original](images/2.jpg) | ![Detected](input/2_plate_0.jpg) | ![Corrected](output/CROP_2_plate_0.jpg) |
 
 ---
 
